@@ -8,4 +8,5 @@ public final class ConnectivityConstant {
 
     public final static String USER_REGISTRATION_ROUTING_KEY = "user.register";
     public final static String USER_AUTHENTICATION_ROUTING_KEY = "user.authenticate";
+    public final static String AUTHENTICATION_TOKEN_VALIDATION_ROUTING_KEY = "token.authenticate";
 }
