@@ -6,5 +6,6 @@ public final class ConnectivityConstant {
 
     public final static String APPLICATION_EXCHANGE = "msc-exchange";
 
-    public final static String REGISTRATION_USER_ROUTING_KEY = "user.register";
+    public final static String USER_REGISTRATION_ROUTING_KEY = "user.register";
+    public final static String USER_AUTHENTICATION_ROUTING_KEY = "user.authenticate";
 }
