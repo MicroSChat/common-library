@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.microschat</groupId>
     <artifactId>common-library</artifactId>
-    <version>SNAPSHOT</version>
+    <version>1-SNAPSHOT</version>
     <name>common-library</name>
     <description>Common library for MicroSChat</description>
     <properties>
