@@ -1,0 +1,5 @@
+<server>
+    <id>github</id>
+    <username>buinak</username>
+    <password>${GITHUB_TOKEN}</password>
+</server>
