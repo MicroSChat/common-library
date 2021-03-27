@@ -11,6 +11,7 @@ public final class ConnectivityConstant {
     public final static String USER_INQUIRY_ROUTING_KEY = "user.inquiry";
 
     public final static String MESSAGE_DELIVER_ROUTING_KEY = "message.deliver";
+    public final static String MESSAGE_INQUIRE_ROUTING_KEY = "message.inquire";
 
     public final static String AUTHENTICATION_TOKEN_VALIDATION_ROUTING_KEY = "token.authenticate";
 }
